@@ -1,3 +1,3 @@
 # Curriculum
 
-[CV Jonathan](https://jonathankingdev.github.io/Curriculum/)
+[CV Jonathan](https://jonathankingdev.github.io/Curriculum-Jonathan/)
